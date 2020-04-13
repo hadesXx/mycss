@@ -6,7 +6,7 @@ const Container = styled.div`
   height: 60px;
   width: 100%;
   background: rgba(0, 0, 0, 0);
-  background: linear-gradient(135deg, #e55d87 0%, #5fc3e4 100%);
+  // background: linear-gradient(135deg, #e55d87 0%, #5fc3e4 100%);
   display: flex;
   align-items: center;
   position: fixed;
